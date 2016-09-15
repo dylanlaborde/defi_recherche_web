@@ -14,3 +14,10 @@
 [liens 2](https://www.gnu.org/home.fr.html)
 
 [liens 3](https://www.gnu.org/gnu/about-gnu.html)
+
+
+###Quelles sont les différences entre le Http et le Https ?
+
+> la difference entre c'est deux protocole est que le https par rapport au http utilise utilise un protocole suplementaire le SSL qui est un protocole de cryptage ce qui permet de mieux securiser les information de navigation .
+
+[liens](http://www.culture-informatique.net/cest-quoi-difference-http-https/)
